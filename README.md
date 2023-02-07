@@ -1,1 +1,3 @@
-This is my personal portfolio. (in-progress)
+# README.md
+
+## This is my personal portfolio that is in progress.
